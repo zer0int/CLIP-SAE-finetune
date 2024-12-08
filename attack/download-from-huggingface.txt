@@ -1,0 +1,12 @@
+Download this dataset and put it here: (and delete or move this text file so it's not in the dataset!)
+
+https://huggingface.co/datasets/zer0int/CLIP-adversarial-typographic-attack_text-image
+
+
+The other dataset (2 of 2) can be obtained here:
+
+https://huggingface.co/datasets/SPRIGHT-T2I/spright_coco
+
+- I recommend to do square center crops of the coco images before training (optional)
+- ...(Or code will do cropping internally, and you won't be able to verify the exact crop)
+- Insert your 'path/to/dataset/images' in '1-finetune.py' (.json with text labels are provided in this repo)

@@ -39,6 +39,10 @@ For now, here's a fun concept of "things on the back of other things" in CLIP Vi
 
 ![6](https://github.com/user-attachments/assets/2a4521b8-3a18-4c56-b68e-2e09d9280697)
 
+Example of the effect of images the SAE had chosen as salient typographic attacks for CLIP.
+
+![8](https://github.com/user-attachments/assets/ec3205e2-1420-4baa-a3a2-1e3100776865)
+
 And zero-shot results via script (4):
 
 ![results-zeroshot](https://github.com/user-attachments/assets/ed3a6c24-3c49-4d27-969b-7802fe17e35f)

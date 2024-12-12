@@ -457,7 +457,7 @@ def trainloop():
                 scaler.step(optimizer)
                 scaler.update()
                 optimizer.zero_grad()
-
+                scheduler.step()
            
             # Track batch losses
             total_train_loss += total_loss.item()

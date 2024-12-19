@@ -3,6 +3,10 @@
 - ⚠️ This is EXPERIMENTAL code / a repo for messing with CLIP + Sparse Autoencoders (SAE)
 - For 'good, known-working' code (and more scripts + info), please see [zer0int/CLIP-fine-tune](https://github.com/zer0int/CLIP-fine-tune)!
 -----
+## Changes 19/DEC/2024:
+- New (best) SAE-informed Long-CLIP model with 90% ImageNet/ObjectNet accuracy.
+- Code is here, model is at my HF 🤗: [https://huggingface.co/zer0int/LongCLIP-SAE-ViT-L-14](https://huggingface.co/zer0int/LongCLIP-SAE-ViT-L-14)
+-----
 🔨
 - Contains the code used to fine-tune my model [HF: zer0int/CLIP-SAE-ViT-L-14](https://huggingface.co/zer0int/CLIP-SAE-ViT-L-14) 🤗
 - See the "attack" folder to obtain datasets required / used in 'a1-finetune.py'
